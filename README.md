@@ -2,28 +2,39 @@
 
 Computer Engineering student focused on embedded systems, IoT, backend development and low-level software.
 
-I work on projects involving real-time systems, SDR signal processing, FreeRTOS-based embedded applications, LoRaWAN IoT architectures and .NET backend services.
+I work on projects involving real-time systems, SDR signal processing, FreeRTOS-based embedded applications, LoRaWAN IoT architectures, .NET backend services and AI-assisted developer tools.
 
 ## Technical Focus
 
 * Embedded systems and real-time programming
 * IoT systems with firmware, backend and telemetry pipelines
 * SDR-based signal processing and raw IQ data analysis
-* Backend development with .NET and ASP.NET Core
-* AI-assisted developer tools and automation
+* Backend development with .NET, ASP.NET Core and Oracle SQL
+* AI-assisted developer tools, automation and autonomous agents
 
+## Experience
+
+**Ford Otosan**
+Working with .NET-based enterprise software, backend development and database-driven applications.
+
+**Cyber Sense Lab**
+Developer of cybersenselab.sakarya.edu.tr, the official website of the Cyber Sense Laboratory at Sakarya University.
 ## Tech Stack
 
-**Languages:** C, C++, C#, Python, JavaScript
-**Backend:** .NET, ASP.NET Core, Entity Framework Core
-**Embedded / IoT:** FreeRTOS, LoRaWAN, sensor data pipelines
-**Systems:** SDR, ADS-B, real-time visualization, scheduling algorithms
-**Tools:** Git, Linux, VS Code
+* **Languages:** C, C++, C#, Python, JavaScript
+* **Backend:** .NET, ASP.NET Core, Entity Framework Core, Oracle SQL
+* **Embedded / IoT:** FreeRTOS, LoRaWAN, sensor data pipelines
+* **Systems:** SDR, real-time systems, autonomous AI agents
+* **Tools:** Git, Linux, VS Code
 
 ## Featured Projects
 
 **SAU-MIoT**
 Remote patient monitoring IoT system based on sensor data collection, LoRaWAN communication and backend telemetry processing.
+
+**Cyber Sense Lab**
+Official website of the Cyber Sense Laboratory at Sakarya University.
+Website: cybersenselab.sakarya.edu.tr
 
 **SDR-Based ADS-B Receiver**
 C++ pipeline for processing raw IQ samples and extracting flight-related data from ADS-B signals.
