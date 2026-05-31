@@ -106,14 +106,11 @@ CI/CD tooling, static analysis, developer automation, AI-assisted development, e
 
 ## Repository Traffic
 
-GitHub only exposes repository traffic through the Traffic API, and it does not provide true weekly or monthly profile-page views. This section is generated from repository traffic snapshots collected by GitHub Actions.
 
 | Repository | Last 7 Days | Last 30 Days |
 | --- | --- | --- |
 | [gh-actions-doctor](https://github.com/Wezylnia/gh-actions-doctor) | ![gh-actions-doctor weekly views](assets/traffic/gh-actions-doctor-week.svg) | ![gh-actions-doctor monthly views](assets/traffic/gh-actions-doctor-month.svg) |
 | [gha-cache-doctor](https://github.com/Wezylnia/gha-cache-doctor) | ![gha-cache-doctor weekly views](assets/traffic/gha-cache-doctor-week.svg) | ![gha-cache-doctor monthly views](assets/traffic/gha-cache-doctor-month.svg) |
-
-The charts update daily after the `PROFILE_TRAFFIC_TOKEN` repository secret is configured with access to repository traffic.
 
 ---
 
