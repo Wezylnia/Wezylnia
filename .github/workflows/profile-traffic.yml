@@ -1,0 +1,27 @@
+name: Profile traffic charts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update repository traffic charts
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TRAFFIC_TOKEN || github.token }}
+        run: python scripts/update_traffic.py
+
+      - name: Commit updated traffic data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile traffic charts"
+          file_pattern: "assets/traffic/*"
