@@ -41,6 +41,10 @@ A lightweight .NET CLI that scans GitHub Actions workflows for security, reliabi
 
 A focused .NET CLI that analyzes GitHub Actions workflows for cache misconfigurations, weak cache keys, and missed dependency-cache opportunities.
 
+### [repo-trust-doctor](https://github.com/Wezylnia/repo-trust-doctor)
+
+An evidence-based static repository trust, security, and maintainability scanner for evaluating open-source repositories before use or contribution.
+
 ---
 
 ## Featured Projects
@@ -111,6 +115,7 @@ CI/CD tooling, static analysis, developer automation, AI-assisted development, e
 | --- | --- | --- |
 | [gh-actions-doctor](https://github.com/Wezylnia/gh-actions-doctor) | ![gh-actions-doctor weekly views](assets/traffic/gh-actions-doctor-week.svg) | ![gh-actions-doctor monthly views](assets/traffic/gh-actions-doctor-month.svg) |
 | [gha-cache-doctor](https://github.com/Wezylnia/gha-cache-doctor) | ![gha-cache-doctor weekly views](assets/traffic/gha-cache-doctor-week.svg) | ![gha-cache-doctor monthly views](assets/traffic/gha-cache-doctor-month.svg) |
+| [repo-trust-doctor](https://github.com/Wezylnia/repo-trust-doctor) | ![repo-trust-doctor weekly views](assets/traffic/repo-trust-doctor-week.svg) | ![repo-trust-doctor monthly views](assets/traffic/repo-trust-doctor-month.svg) |
 
 ---
 

@@ -1,2 +1,3 @@
 Wezylnia/gh-actions-doctor
 Wezylnia/gha-cache-doctor
+Wezylnia/repo-trust-doctor
