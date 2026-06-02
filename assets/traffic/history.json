@@ -117,6 +117,10 @@
     "2026-05-31": {
       "count": 7,
       "uniques": 2
+    },
+    "2026-06-01": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "Wezylnia/repo-trust-doctor": {
@@ -173,6 +177,10 @@
       "uniques": 0
     },
     "2026-05-31": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-06-01": {
       "count": 4,
       "uniques": 2
     }
