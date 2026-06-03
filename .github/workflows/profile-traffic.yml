@@ -3,7 +3,7 @@ name: Profile traffic charts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "10 * * * *"
 
 permissions:
   contents: write
