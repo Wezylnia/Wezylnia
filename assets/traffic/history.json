@@ -75,6 +75,10 @@
     "2026-06-04": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-05": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "Wezylnia/gha-cache-doctor": {
@@ -147,6 +151,10 @@
       "uniques": 1
     },
     "2026-06-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-05": {
       "count": 0,
       "uniques": 0
     }
@@ -223,6 +231,10 @@
     "2026-06-04": {
       "count": 31,
       "uniques": 11
+    },
+    "2026-06-05": {
+      "count": 6,
+      "uniques": 1
     }
   }
 }
