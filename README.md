@@ -12,22 +12,19 @@
 
 ## About
 
-I am a Computer Engineering student focused on building practical systems across backend development, embedded software, IoT, and developer tooling.
+I am a Computer Engineering student focused on backend development, embedded systems, IoT, and developer tooling.
 
-My work combines low-level programming, real-time systems, telemetry pipelines, .NET backend services, GitHub Actions automation, and AI-assisted developer workflows.
-
-I like projects that are useful, testable, and maintainable rather than just experimental demos.
+I build practical, testable, and maintainable systems using .NET, C/C++, GitHub Actions, telemetry pipelines, and AI-assisted developer workflows.
 
 ---
 
 ## Technical Focus
 
-- **Backend development:** .NET, ASP.NET Core, Entity Framework Core, Oracle SQL
-- **Embedded systems:** C, FreeRTOS, real-time task scheduling, firmware-level development
-- **IoT systems:** sensor data collection, LoRaWAN communication, telemetry pipelines
-- **Signal processing:** SDR, raw IQ data analysis, ADS-B data extraction
-- **Developer tools:** CLI tools, GitHub Actions analysis, automation, static analysis
-- **AI-assisted workflows:** developer agents, automation tools, code review support
+- **Backend:** .NET, ASP.NET Core, Entity Framework Core, Oracle SQL
+- **Embedded / IoT:** C, FreeRTOS, LoRaWAN, real-time systems, telemetry pipelines
+- **Systems:** C++, Linux, SDR, raw IQ data analysis, ADS-B data extraction
+- **Developer Tools:** CLI tools, GitHub Actions analysis, automation, static analysis
+- **AI-Assisted Development:** developer agents, code review support, workflow automation
 
 ---
 
@@ -43,7 +40,7 @@ A focused .NET CLI that analyzes GitHub Actions workflows for cache misconfigura
 
 ### [repo-trust-doctor](https://github.com/Wezylnia/repo-trust-doctor)
 
-An evidence-based static repository trust, security, and maintainability scanner for evaluating open-source repositories before use or contribution.
+An evidence-based static repository trust, security, and maintainability scanner for evaluating open-source repositories.
 
 ---
 
@@ -51,11 +48,11 @@ An evidence-based static repository trust, security, and maintainability scanner
 
 ### SAU-MIoT
 
-Remote patient monitoring IoT system based on sensor data collection, LoRaWAN communication, backend telemetry processing, and healthcare-oriented data flow design.
+Remote patient monitoring IoT system using sensor data collection, LoRaWAN communication, backend telemetry processing, and healthcare-oriented data flow design.
 
 ### Cyber Sense Lab
 
-Developer of the official Cyber Sense Laboratory website at Sakarya University.
+Official website development for the Cyber Sense Laboratory at Sakarya University.
 
 Website: `cybersenselab.sakarya.edu.tr`
 
@@ -91,38 +88,27 @@ Developed the official website of the Cyber Sense Laboratory at Sakarya Universi
 
 ## Tech Stack
 
-**Languages:**  
-C, C++, C#, Python, JavaScript
-
-**Backend:**  
-.NET, ASP.NET Core, Entity Framework Core, Oracle SQL
-
-**Embedded / IoT:**  
-FreeRTOS, LoRaWAN, sensor data pipelines, real-time systems
-
-**Systems / Tools:**  
-Linux, Git, GitHub Actions, VS Code, SDR tools
-
-**Areas of Interest:**  
-CI/CD tooling, static analysis, developer automation, AI-assisted development, embedded telemetry systems
+**Languages:** C, C++, C#, Python, JavaScript  
+**Backend:** .NET, ASP.NET Core, Entity Framework Core, Oracle SQL  
+**Embedded / IoT:** FreeRTOS, LoRaWAN, sensor data pipelines, real-time systems  
+**Tools:** Linux, Git, GitHub Actions, VS Code, SDR tools  
+**Interests:** CI/CD tooling, static analysis, developer automation, AI-assisted development, embedded telemetry systems
 
 ---
 
 ## Repository Traffic
 
-
-| Repository | Last 7 Days | Last 30 Days |
-| --- | --- | --- |
-| [gh-actions-doctor](https://github.com/Wezylnia/gh-actions-doctor) | ![gh-actions-doctor weekly views](assets/traffic/gh-actions-doctor-week.svg) | ![gh-actions-doctor monthly views](assets/traffic/gh-actions-doctor-month.svg) |
-| [gha-cache-doctor](https://github.com/Wezylnia/gha-cache-doctor) | ![gha-cache-doctor weekly views](assets/traffic/gha-cache-doctor-week.svg) | ![gha-cache-doctor monthly views](assets/traffic/gha-cache-doctor-month.svg) |
-| [repo-trust-doctor](https://github.com/Wezylnia/repo-trust-doctor) | ![repo-trust-doctor weekly views](assets/traffic/repo-trust-doctor-week.svg) | ![repo-trust-doctor monthly views](assets/traffic/repo-trust-doctor-month.svg) |
+| Repository | Last 30 Days |
+| --- | --- |
+| [gh-actions-doctor](https://github.com/Wezylnia/gh-actions-doctor) | ![gh-actions-doctor monthly views](assets/traffic/gh-actions-doctor-month.svg) |
+| [gha-cache-doctor](https://github.com/Wezylnia/gha-cache-doctor) | ![gha-cache-doctor monthly views](assets/traffic/gha-cache-doctor-month.svg) |
+| [repo-trust-doctor](https://github.com/Wezylnia/repo-trust-doctor) | ![repo-trust-doctor monthly views](assets/traffic/repo-trust-doctor-month.svg) |
 
 ---
 
 ## Currently Working On
 
 - Improving open-source .NET CLI tools
-- Building GitHub Actions analysis and CI/CD optimization tools
+- Building GitHub Actions and CI/CD analysis tools
 - Developing backend services with .NET
-- Improving embedded systems and real-time programming skills
-- Exploring AI-assisted automation for developer workflows
+- Exploring embedded telemetry systems and AI-assisted developer automation
